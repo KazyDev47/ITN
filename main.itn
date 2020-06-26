@@ -1,0 +1,2 @@
+input 'Entrez un mot'
+print input
